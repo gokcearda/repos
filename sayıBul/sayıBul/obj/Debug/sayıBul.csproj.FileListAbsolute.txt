@@ -1,0 +1,11 @@
+C:\Users\sadea\source\repos\sayıBul\sayıBul\obj\Debug\sayıBul.csproj.AssemblyReference.cache
+C:\Users\sadea\source\repos\sayıBul\sayıBul\obj\Debug\sayıBul.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadea\source\repos\sayıBul\sayıBul\obj\Debug\sayıBul.Form1.resources
+C:\Users\sadea\source\repos\sayıBul\sayıBul\obj\Debug\sayıBul.Properties.Resources.resources
+C:\Users\sadea\source\repos\sayıBul\sayıBul\obj\Debug\sayıBul.csproj.GenerateResource.cache
+C:\Users\sadea\source\repos\sayıBul\sayıBul\obj\Debug\sayıBul.csproj.CoreCompileInputs.cache
+C:\Users\sadea\source\repos\sayıBul\sayıBul\bin\Debug\sayıBul.exe.config
+C:\Users\sadea\source\repos\sayıBul\sayıBul\bin\Debug\sayıBul.exe
+C:\Users\sadea\source\repos\sayıBul\sayıBul\bin\Debug\sayıBul.pdb
+C:\Users\sadea\source\repos\sayıBul\sayıBul\obj\Debug\sayıBul.exe
+C:\Users\sadea\source\repos\sayıBul\sayıBul\obj\Debug\sayıBul.pdb

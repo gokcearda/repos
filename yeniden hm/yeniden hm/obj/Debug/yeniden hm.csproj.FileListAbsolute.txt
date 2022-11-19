@@ -1,0 +1,11 @@
+C:\Users\sadea\source\repos\yeniden hm\yeniden hm\bin\Debug\yeniden hm.exe.config
+C:\Users\sadea\source\repos\yeniden hm\yeniden hm\bin\Debug\yeniden hm.exe
+C:\Users\sadea\source\repos\yeniden hm\yeniden hm\bin\Debug\yeniden hm.pdb
+C:\Users\sadea\source\repos\yeniden hm\yeniden hm\obj\Debug\yeniden hm.csproj.AssemblyReference.cache
+C:\Users\sadea\source\repos\yeniden hm\yeniden hm\obj\Debug\yeniden hm.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadea\source\repos\yeniden hm\yeniden hm\obj\Debug\yeniden_hm.Form1.resources
+C:\Users\sadea\source\repos\yeniden hm\yeniden hm\obj\Debug\yeniden_hm.Properties.Resources.resources
+C:\Users\sadea\source\repos\yeniden hm\yeniden hm\obj\Debug\yeniden hm.csproj.GenerateResource.cache
+C:\Users\sadea\source\repos\yeniden hm\yeniden hm\obj\Debug\yeniden hm.csproj.CoreCompileInputs.cache
+C:\Users\sadea\source\repos\yeniden hm\yeniden hm\obj\Debug\yeniden hm.exe
+C:\Users\sadea\source\repos\yeniden hm\yeniden hm\obj\Debug\yeniden hm.pdb

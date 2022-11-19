@@ -1,0 +1,11 @@
+C:\Users\sadea\source\repos\PersonelApp\PersonelApp\bin\Debug\PersonelApp.exe.config
+C:\Users\sadea\source\repos\PersonelApp\PersonelApp\bin\Debug\PersonelApp.exe
+C:\Users\sadea\source\repos\PersonelApp\PersonelApp\bin\Debug\PersonelApp.pdb
+C:\Users\sadea\source\repos\PersonelApp\PersonelApp\obj\Debug\PersonelApp.csproj.AssemblyReference.cache
+C:\Users\sadea\source\repos\PersonelApp\PersonelApp\obj\Debug\PersonelApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadea\source\repos\PersonelApp\PersonelApp\obj\Debug\PersonelApp.Form1.resources
+C:\Users\sadea\source\repos\PersonelApp\PersonelApp\obj\Debug\PersonelApp.Properties.Resources.resources
+C:\Users\sadea\source\repos\PersonelApp\PersonelApp\obj\Debug\PersonelApp.csproj.GenerateResource.cache
+C:\Users\sadea\source\repos\PersonelApp\PersonelApp\obj\Debug\PersonelApp.csproj.CoreCompileInputs.cache
+C:\Users\sadea\source\repos\PersonelApp\PersonelApp\obj\Debug\PersonelApp.exe
+C:\Users\sadea\source\repos\PersonelApp\PersonelApp\obj\Debug\PersonelApp.pdb

@@ -1,0 +1,11 @@
+C:\Users\sadea\source\repos\CiftSayiBulma\CiftSayiBulma\bin\Debug\CiftSayiBulma.exe.config
+C:\Users\sadea\source\repos\CiftSayiBulma\CiftSayiBulma\bin\Debug\CiftSayiBulma.exe
+C:\Users\sadea\source\repos\CiftSayiBulma\CiftSayiBulma\bin\Debug\CiftSayiBulma.pdb
+C:\Users\sadea\source\repos\CiftSayiBulma\CiftSayiBulma\obj\Debug\CiftSayiBulma.csproj.AssemblyReference.cache
+C:\Users\sadea\source\repos\CiftSayiBulma\CiftSayiBulma\obj\Debug\CiftSayiBulma.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadea\source\repos\CiftSayiBulma\CiftSayiBulma\obj\Debug\CiftSayiBulma.Form1.resources
+C:\Users\sadea\source\repos\CiftSayiBulma\CiftSayiBulma\obj\Debug\CiftSayiBulma.Properties.Resources.resources
+C:\Users\sadea\source\repos\CiftSayiBulma\CiftSayiBulma\obj\Debug\CiftSayiBulma.csproj.GenerateResource.cache
+C:\Users\sadea\source\repos\CiftSayiBulma\CiftSayiBulma\obj\Debug\CiftSayiBulma.csproj.CoreCompileInputs.cache
+C:\Users\sadea\source\repos\CiftSayiBulma\CiftSayiBulma\obj\Debug\CiftSayiBulma.exe
+C:\Users\sadea\source\repos\CiftSayiBulma\CiftSayiBulma\obj\Debug\CiftSayiBulma.pdb

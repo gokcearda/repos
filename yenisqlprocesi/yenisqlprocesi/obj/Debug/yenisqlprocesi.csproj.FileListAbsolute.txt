@@ -1,0 +1,11 @@
+C:\Users\sadea\source\repos\yenisqlprocesi\yenisqlprocesi\bin\Debug\yenisqlprocesi.exe.config
+C:\Users\sadea\source\repos\yenisqlprocesi\yenisqlprocesi\bin\Debug\yenisqlprocesi.exe
+C:\Users\sadea\source\repos\yenisqlprocesi\yenisqlprocesi\bin\Debug\yenisqlprocesi.pdb
+C:\Users\sadea\source\repos\yenisqlprocesi\yenisqlprocesi\obj\Debug\yenisqlprocesi.csproj.AssemblyReference.cache
+C:\Users\sadea\source\repos\yenisqlprocesi\yenisqlprocesi\obj\Debug\yenisqlprocesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadea\source\repos\yenisqlprocesi\yenisqlprocesi\obj\Debug\yenisqlprocesi.Form1.resources
+C:\Users\sadea\source\repos\yenisqlprocesi\yenisqlprocesi\obj\Debug\yenisqlprocesi.Properties.Resources.resources
+C:\Users\sadea\source\repos\yenisqlprocesi\yenisqlprocesi\obj\Debug\yenisqlprocesi.csproj.GenerateResource.cache
+C:\Users\sadea\source\repos\yenisqlprocesi\yenisqlprocesi\obj\Debug\yenisqlprocesi.csproj.CoreCompileInputs.cache
+C:\Users\sadea\source\repos\yenisqlprocesi\yenisqlprocesi\obj\Debug\yenisqlprocesi.exe
+C:\Users\sadea\source\repos\yenisqlprocesi\yenisqlprocesi\obj\Debug\yenisqlprocesi.pdb

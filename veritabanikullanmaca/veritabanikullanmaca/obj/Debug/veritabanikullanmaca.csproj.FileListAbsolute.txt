@@ -1,0 +1,11 @@
+C:\Users\sadea\source\repos\veritabanikullanmaca\veritabanikullanmaca\bin\Debug\veritabanikullanmaca.exe.config
+C:\Users\sadea\source\repos\veritabanikullanmaca\veritabanikullanmaca\bin\Debug\veritabanikullanmaca.exe
+C:\Users\sadea\source\repos\veritabanikullanmaca\veritabanikullanmaca\bin\Debug\veritabanikullanmaca.pdb
+C:\Users\sadea\source\repos\veritabanikullanmaca\veritabanikullanmaca\obj\Debug\veritabanikullanmaca.csproj.AssemblyReference.cache
+C:\Users\sadea\source\repos\veritabanikullanmaca\veritabanikullanmaca\obj\Debug\veritabanikullanmaca.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadea\source\repos\veritabanikullanmaca\veritabanikullanmaca\obj\Debug\veritabanikullanmaca.Form1.resources
+C:\Users\sadea\source\repos\veritabanikullanmaca\veritabanikullanmaca\obj\Debug\veritabanikullanmaca.Properties.Resources.resources
+C:\Users\sadea\source\repos\veritabanikullanmaca\veritabanikullanmaca\obj\Debug\veritabanikullanmaca.csproj.GenerateResource.cache
+C:\Users\sadea\source\repos\veritabanikullanmaca\veritabanikullanmaca\obj\Debug\veritabanikullanmaca.csproj.CoreCompileInputs.cache
+C:\Users\sadea\source\repos\veritabanikullanmaca\veritabanikullanmaca\obj\Debug\veritabanikullanmaca.exe
+C:\Users\sadea\source\repos\veritabanikullanmaca\veritabanikullanmaca\obj\Debug\veritabanikullanmaca.pdb

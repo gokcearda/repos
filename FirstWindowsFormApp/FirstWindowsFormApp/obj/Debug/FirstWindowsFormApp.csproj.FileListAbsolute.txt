@@ -1,0 +1,11 @@
+C:\Users\sadea\source\repos\FirstWindowsFormApp\FirstWindowsFormApp\bin\Debug\FirstWindowsFormApp.exe.config
+C:\Users\sadea\source\repos\FirstWindowsFormApp\FirstWindowsFormApp\bin\Debug\FirstWindowsFormApp.exe
+C:\Users\sadea\source\repos\FirstWindowsFormApp\FirstWindowsFormApp\bin\Debug\FirstWindowsFormApp.pdb
+C:\Users\sadea\source\repos\FirstWindowsFormApp\FirstWindowsFormApp\obj\Debug\FirstWindowsFormApp.csproj.AssemblyReference.cache
+C:\Users\sadea\source\repos\FirstWindowsFormApp\FirstWindowsFormApp\obj\Debug\FirstWindowsFormApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadea\source\repos\FirstWindowsFormApp\FirstWindowsFormApp\obj\Debug\FirstWindowsFormApp.Form1.resources
+C:\Users\sadea\source\repos\FirstWindowsFormApp\FirstWindowsFormApp\obj\Debug\FirstWindowsFormApp.Properties.Resources.resources
+C:\Users\sadea\source\repos\FirstWindowsFormApp\FirstWindowsFormApp\obj\Debug\FirstWindowsFormApp.csproj.GenerateResource.cache
+C:\Users\sadea\source\repos\FirstWindowsFormApp\FirstWindowsFormApp\obj\Debug\FirstWindowsFormApp.csproj.CoreCompileInputs.cache
+C:\Users\sadea\source\repos\FirstWindowsFormApp\FirstWindowsFormApp\obj\Debug\FirstWindowsFormApp.exe
+C:\Users\sadea\source\repos\FirstWindowsFormApp\FirstWindowsFormApp\obj\Debug\FirstWindowsFormApp.pdb

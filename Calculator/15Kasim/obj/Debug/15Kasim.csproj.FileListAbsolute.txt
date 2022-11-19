@@ -1,0 +1,11 @@
+C:\Users\sadea\source\repos\15Kasim\15Kasim\bin\Debug\15Kasim.exe.config
+C:\Users\sadea\source\repos\15Kasim\15Kasim\bin\Debug\15Kasim.exe
+C:\Users\sadea\source\repos\15Kasim\15Kasim\bin\Debug\15Kasim.pdb
+C:\Users\sadea\source\repos\15Kasim\15Kasim\obj\Debug\15Kasim.csproj.AssemblyReference.cache
+C:\Users\sadea\source\repos\15Kasim\15Kasim\obj\Debug\15Kasim.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadea\source\repos\15Kasim\15Kasim\obj\Debug\_15Kasim.Form1.resources
+C:\Users\sadea\source\repos\15Kasim\15Kasim\obj\Debug\_15Kasim.Properties.Resources.resources
+C:\Users\sadea\source\repos\15Kasim\15Kasim\obj\Debug\15Kasim.csproj.GenerateResource.cache
+C:\Users\sadea\source\repos\15Kasim\15Kasim\obj\Debug\15Kasim.csproj.CoreCompileInputs.cache
+C:\Users\sadea\source\repos\15Kasim\15Kasim\obj\Debug\15Kasim.exe
+C:\Users\sadea\source\repos\15Kasim\15Kasim\obj\Debug\15Kasim.pdb

@@ -1,0 +1,11 @@
+C:\Users\sadea\source\repos\SqlForm\SqlForm\bin\Debug\SqlForm.exe.config
+C:\Users\sadea\source\repos\SqlForm\SqlForm\bin\Debug\SqlForm.exe
+C:\Users\sadea\source\repos\SqlForm\SqlForm\bin\Debug\SqlForm.pdb
+C:\Users\sadea\source\repos\SqlForm\SqlForm\obj\Debug\SqlForm.csproj.AssemblyReference.cache
+C:\Users\sadea\source\repos\SqlForm\SqlForm\obj\Debug\SqlForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadea\source\repos\SqlForm\SqlForm\obj\Debug\SqlForm.Form1.resources
+C:\Users\sadea\source\repos\SqlForm\SqlForm\obj\Debug\SqlForm.Properties.Resources.resources
+C:\Users\sadea\source\repos\SqlForm\SqlForm\obj\Debug\SqlForm.csproj.GenerateResource.cache
+C:\Users\sadea\source\repos\SqlForm\SqlForm\obj\Debug\SqlForm.csproj.CoreCompileInputs.cache
+C:\Users\sadea\source\repos\SqlForm\SqlForm\obj\Debug\SqlForm.exe
+C:\Users\sadea\source\repos\SqlForm\SqlForm\obj\Debug\SqlForm.pdb

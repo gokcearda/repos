@@ -1,0 +1,11 @@
+C:\Users\sadea\source\repos\asalSayiBulmaca\asalSayiBulmaca\bin\Debug\asalSayiBulmaca.exe.config
+C:\Users\sadea\source\repos\asalSayiBulmaca\asalSayiBulmaca\bin\Debug\asalSayiBulmaca.exe
+C:\Users\sadea\source\repos\asalSayiBulmaca\asalSayiBulmaca\bin\Debug\asalSayiBulmaca.pdb
+C:\Users\sadea\source\repos\asalSayiBulmaca\asalSayiBulmaca\obj\Debug\asalSayiBulmaca.csproj.AssemblyReference.cache
+C:\Users\sadea\source\repos\asalSayiBulmaca\asalSayiBulmaca\obj\Debug\asalSayiBulmaca.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadea\source\repos\asalSayiBulmaca\asalSayiBulmaca\obj\Debug\asalSayiBulmaca.Form1.resources
+C:\Users\sadea\source\repos\asalSayiBulmaca\asalSayiBulmaca\obj\Debug\asalSayiBulmaca.Properties.Resources.resources
+C:\Users\sadea\source\repos\asalSayiBulmaca\asalSayiBulmaca\obj\Debug\asalSayiBulmaca.csproj.GenerateResource.cache
+C:\Users\sadea\source\repos\asalSayiBulmaca\asalSayiBulmaca\obj\Debug\asalSayiBulmaca.csproj.CoreCompileInputs.cache
+C:\Users\sadea\source\repos\asalSayiBulmaca\asalSayiBulmaca\obj\Debug\asalSayiBulmaca.exe
+C:\Users\sadea\source\repos\asalSayiBulmaca\asalSayiBulmaca\obj\Debug\asalSayiBulmaca.pdb
