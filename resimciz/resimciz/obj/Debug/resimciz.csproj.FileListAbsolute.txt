@@ -1,0 +1,11 @@
+C:\Users\sadea\source\repos\resimciz\resimciz\bin\Debug\resimciz.exe.config
+C:\Users\sadea\source\repos\resimciz\resimciz\bin\Debug\resimciz.exe
+C:\Users\sadea\source\repos\resimciz\resimciz\bin\Debug\resimciz.pdb
+C:\Users\sadea\source\repos\resimciz\resimciz\obj\Debug\resimciz.csproj.AssemblyReference.cache
+C:\Users\sadea\source\repos\resimciz\resimciz\obj\Debug\resimciz.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadea\source\repos\resimciz\resimciz\obj\Debug\resimciz.Form1.resources
+C:\Users\sadea\source\repos\resimciz\resimciz\obj\Debug\resimciz.Properties.Resources.resources
+C:\Users\sadea\source\repos\resimciz\resimciz\obj\Debug\resimciz.csproj.GenerateResource.cache
+C:\Users\sadea\source\repos\resimciz\resimciz\obj\Debug\resimciz.csproj.CoreCompileInputs.cache
+C:\Users\sadea\source\repos\resimciz\resimciz\obj\Debug\resimciz.exe
+C:\Users\sadea\source\repos\resimciz\resimciz\obj\Debug\resimciz.pdb

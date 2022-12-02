@@ -1,0 +1,11 @@
+C:\Users\sadea\source\repos\damaTahtasi\damaTahtasi\bin\Debug\damaTahtasi.exe.config
+C:\Users\sadea\source\repos\damaTahtasi\damaTahtasi\bin\Debug\damaTahtasi.exe
+C:\Users\sadea\source\repos\damaTahtasi\damaTahtasi\bin\Debug\damaTahtasi.pdb
+C:\Users\sadea\source\repos\damaTahtasi\damaTahtasi\obj\Debug\damaTahtasi.csproj.AssemblyReference.cache
+C:\Users\sadea\source\repos\damaTahtasi\damaTahtasi\obj\Debug\damaTahtasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadea\source\repos\damaTahtasi\damaTahtasi\obj\Debug\damaTahtasi.Form1.resources
+C:\Users\sadea\source\repos\damaTahtasi\damaTahtasi\obj\Debug\damaTahtasi.Properties.Resources.resources
+C:\Users\sadea\source\repos\damaTahtasi\damaTahtasi\obj\Debug\damaTahtasi.csproj.GenerateResource.cache
+C:\Users\sadea\source\repos\damaTahtasi\damaTahtasi\obj\Debug\damaTahtasi.csproj.CoreCompileInputs.cache
+C:\Users\sadea\source\repos\damaTahtasi\damaTahtasi\obj\Debug\damaTahtasi.exe
+C:\Users\sadea\source\repos\damaTahtasi\damaTahtasi\obj\Debug\damaTahtasi.pdb

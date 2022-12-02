@@ -1,0 +1,11 @@
+C:\Users\sadea\source\repos\mesajlasmaUygulaması\mesajlasmaUygulaması\bin\Debug\mesajlasmaUygulaması.exe.config
+C:\Users\sadea\source\repos\mesajlasmaUygulaması\mesajlasmaUygulaması\bin\Debug\mesajlasmaUygulaması.exe
+C:\Users\sadea\source\repos\mesajlasmaUygulaması\mesajlasmaUygulaması\bin\Debug\mesajlasmaUygulaması.pdb
+C:\Users\sadea\source\repos\mesajlasmaUygulaması\mesajlasmaUygulaması\obj\Debug\mesajlasmaUygulaması.csproj.AssemblyReference.cache
+C:\Users\sadea\source\repos\mesajlasmaUygulaması\mesajlasmaUygulaması\obj\Debug\mesajlasmaUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadea\source\repos\mesajlasmaUygulaması\mesajlasmaUygulaması\obj\Debug\mesajlasmaUygulaması.Form1.resources
+C:\Users\sadea\source\repos\mesajlasmaUygulaması\mesajlasmaUygulaması\obj\Debug\mesajlasmaUygulaması.Properties.Resources.resources
+C:\Users\sadea\source\repos\mesajlasmaUygulaması\mesajlasmaUygulaması\obj\Debug\mesajlasmaUygulaması.csproj.GenerateResource.cache
+C:\Users\sadea\source\repos\mesajlasmaUygulaması\mesajlasmaUygulaması\obj\Debug\mesajlasmaUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\sadea\source\repos\mesajlasmaUygulaması\mesajlasmaUygulaması\obj\Debug\mesajlasmaUygulaması.exe
+C:\Users\sadea\source\repos\mesajlasmaUygulaması\mesajlasmaUygulaması\obj\Debug\mesajlasmaUygulaması.pdb

@@ -1,0 +1,11 @@
+C:\Users\sadea\source\repos\pictureboxpaint1\pictureboxpaint1\bin\Debug\pictureboxpaint1.exe.config
+C:\Users\sadea\source\repos\pictureboxpaint1\pictureboxpaint1\bin\Debug\pictureboxpaint1.exe
+C:\Users\sadea\source\repos\pictureboxpaint1\pictureboxpaint1\bin\Debug\pictureboxpaint1.pdb
+C:\Users\sadea\source\repos\pictureboxpaint1\pictureboxpaint1\obj\Debug\pictureboxpaint1.csproj.AssemblyReference.cache
+C:\Users\sadea\source\repos\pictureboxpaint1\pictureboxpaint1\obj\Debug\pictureboxpaint1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadea\source\repos\pictureboxpaint1\pictureboxpaint1\obj\Debug\pictureboxpaint1.Form1.resources
+C:\Users\sadea\source\repos\pictureboxpaint1\pictureboxpaint1\obj\Debug\pictureboxpaint1.Properties.Resources.resources
+C:\Users\sadea\source\repos\pictureboxpaint1\pictureboxpaint1\obj\Debug\pictureboxpaint1.csproj.GenerateResource.cache
+C:\Users\sadea\source\repos\pictureboxpaint1\pictureboxpaint1\obj\Debug\pictureboxpaint1.csproj.CoreCompileInputs.cache
+C:\Users\sadea\source\repos\pictureboxpaint1\pictureboxpaint1\obj\Debug\pictureboxpaint1.exe
+C:\Users\sadea\source\repos\pictureboxpaint1\pictureboxpaint1\obj\Debug\pictureboxpaint1.pdb

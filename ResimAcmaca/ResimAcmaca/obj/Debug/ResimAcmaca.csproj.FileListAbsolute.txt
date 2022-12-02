@@ -1,0 +1,11 @@
+C:\Users\sadea\source\repos\ResimAcmaca\ResimAcmaca\bin\Debug\ResimAcmaca.exe.config
+C:\Users\sadea\source\repos\ResimAcmaca\ResimAcmaca\bin\Debug\ResimAcmaca.exe
+C:\Users\sadea\source\repos\ResimAcmaca\ResimAcmaca\bin\Debug\ResimAcmaca.pdb
+C:\Users\sadea\source\repos\ResimAcmaca\ResimAcmaca\obj\Debug\ResimAcmaca.csproj.AssemblyReference.cache
+C:\Users\sadea\source\repos\ResimAcmaca\ResimAcmaca\obj\Debug\ResimAcmaca.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadea\source\repos\ResimAcmaca\ResimAcmaca\obj\Debug\ResimAcmaca.Form1.resources
+C:\Users\sadea\source\repos\ResimAcmaca\ResimAcmaca\obj\Debug\ResimAcmaca.Properties.Resources.resources
+C:\Users\sadea\source\repos\ResimAcmaca\ResimAcmaca\obj\Debug\ResimAcmaca.csproj.GenerateResource.cache
+C:\Users\sadea\source\repos\ResimAcmaca\ResimAcmaca\obj\Debug\ResimAcmaca.csproj.CoreCompileInputs.cache
+C:\Users\sadea\source\repos\ResimAcmaca\ResimAcmaca\obj\Debug\ResimAcmaca.exe
+C:\Users\sadea\source\repos\ResimAcmaca\ResimAcmaca\obj\Debug\ResimAcmaca.pdb

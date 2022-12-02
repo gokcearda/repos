@@ -1,0 +1,11 @@
+C:\Users\sadea\source\repos\tabtab\tabtab\bin\Debug\tabtab.exe.config
+C:\Users\sadea\source\repos\tabtab\tabtab\bin\Debug\tabtab.exe
+C:\Users\sadea\source\repos\tabtab\tabtab\bin\Debug\tabtab.pdb
+C:\Users\sadea\source\repos\tabtab\tabtab\obj\Debug\tabtab.csproj.AssemblyReference.cache
+C:\Users\sadea\source\repos\tabtab\tabtab\obj\Debug\tabtab.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadea\source\repos\tabtab\tabtab\obj\Debug\tabtab.Form1.resources
+C:\Users\sadea\source\repos\tabtab\tabtab\obj\Debug\tabtab.Properties.Resources.resources
+C:\Users\sadea\source\repos\tabtab\tabtab\obj\Debug\tabtab.csproj.GenerateResource.cache
+C:\Users\sadea\source\repos\tabtab\tabtab\obj\Debug\tabtab.csproj.CoreCompileInputs.cache
+C:\Users\sadea\source\repos\tabtab\tabtab\obj\Debug\tabtab.exe
+C:\Users\sadea\source\repos\tabtab\tabtab\obj\Debug\tabtab.pdb

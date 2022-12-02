@@ -1,0 +1,11 @@
+C:\Users\sadea\source\repos\kalemlecizme\kalemlecizme\bin\Debug\kalemlecizme.exe.config
+C:\Users\sadea\source\repos\kalemlecizme\kalemlecizme\bin\Debug\kalemlecizme.exe
+C:\Users\sadea\source\repos\kalemlecizme\kalemlecizme\bin\Debug\kalemlecizme.pdb
+C:\Users\sadea\source\repos\kalemlecizme\kalemlecizme\obj\Debug\kalemlecizme.csproj.AssemblyReference.cache
+C:\Users\sadea\source\repos\kalemlecizme\kalemlecizme\obj\Debug\kalemlecizme.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadea\source\repos\kalemlecizme\kalemlecizme\obj\Debug\kalemlecizme.Form1.resources
+C:\Users\sadea\source\repos\kalemlecizme\kalemlecizme\obj\Debug\kalemlecizme.Properties.Resources.resources
+C:\Users\sadea\source\repos\kalemlecizme\kalemlecizme\obj\Debug\kalemlecizme.csproj.GenerateResource.cache
+C:\Users\sadea\source\repos\kalemlecizme\kalemlecizme\obj\Debug\kalemlecizme.csproj.CoreCompileInputs.cache
+C:\Users\sadea\source\repos\kalemlecizme\kalemlecizme\obj\Debug\kalemlecizme.exe
+C:\Users\sadea\source\repos\kalemlecizme\kalemlecizme\obj\Debug\kalemlecizme.pdb

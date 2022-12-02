@@ -1,0 +1,11 @@
+C:\Users\sadea\source\repos\resimacmaca2\resimacmaca2\bin\Debug\resimacmaca2.exe.config
+C:\Users\sadea\source\repos\resimacmaca2\resimacmaca2\bin\Debug\resimacmaca2.exe
+C:\Users\sadea\source\repos\resimacmaca2\resimacmaca2\bin\Debug\resimacmaca2.pdb
+C:\Users\sadea\source\repos\resimacmaca2\resimacmaca2\obj\Debug\resimacmaca2.csproj.AssemblyReference.cache
+C:\Users\sadea\source\repos\resimacmaca2\resimacmaca2\obj\Debug\resimacmaca2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadea\source\repos\resimacmaca2\resimacmaca2\obj\Debug\resimacmaca2.Form1.resources
+C:\Users\sadea\source\repos\resimacmaca2\resimacmaca2\obj\Debug\resimacmaca2.Properties.Resources.resources
+C:\Users\sadea\source\repos\resimacmaca2\resimacmaca2\obj\Debug\resimacmaca2.csproj.GenerateResource.cache
+C:\Users\sadea\source\repos\resimacmaca2\resimacmaca2\obj\Debug\resimacmaca2.csproj.CoreCompileInputs.cache
+C:\Users\sadea\source\repos\resimacmaca2\resimacmaca2\obj\Debug\resimacmaca2.exe
+C:\Users\sadea\source\repos\resimacmaca2\resimacmaca2\obj\Debug\resimacmaca2.pdb

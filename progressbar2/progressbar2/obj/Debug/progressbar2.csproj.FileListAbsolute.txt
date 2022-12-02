@@ -1,0 +1,11 @@
+C:\Users\sadea\source\repos\progressbar2\progressbar2\bin\Debug\progressbar2.exe.config
+C:\Users\sadea\source\repos\progressbar2\progressbar2\bin\Debug\progressbar2.exe
+C:\Users\sadea\source\repos\progressbar2\progressbar2\bin\Debug\progressbar2.pdb
+C:\Users\sadea\source\repos\progressbar2\progressbar2\obj\Debug\progressbar2.csproj.AssemblyReference.cache
+C:\Users\sadea\source\repos\progressbar2\progressbar2\obj\Debug\progressbar2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadea\source\repos\progressbar2\progressbar2\obj\Debug\progressbar2.Form1.resources
+C:\Users\sadea\source\repos\progressbar2\progressbar2\obj\Debug\progressbar2.Properties.Resources.resources
+C:\Users\sadea\source\repos\progressbar2\progressbar2\obj\Debug\progressbar2.csproj.GenerateResource.cache
+C:\Users\sadea\source\repos\progressbar2\progressbar2\obj\Debug\progressbar2.csproj.CoreCompileInputs.cache
+C:\Users\sadea\source\repos\progressbar2\progressbar2\obj\Debug\progressbar2.exe
+C:\Users\sadea\source\repos\progressbar2\progressbar2\obj\Debug\progressbar2.pdb
