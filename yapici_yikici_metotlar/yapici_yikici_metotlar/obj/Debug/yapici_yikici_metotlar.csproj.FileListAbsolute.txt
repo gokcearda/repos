@@ -1,0 +1,8 @@
+C:\Users\sadea\source\repos\yapici_yikici_metotlar\yapici_yikici_metotlar\bin\Debug\yapici_yikici_metotlar.exe.config
+C:\Users\sadea\source\repos\yapici_yikici_metotlar\yapici_yikici_metotlar\bin\Debug\yapici_yikici_metotlar.exe
+C:\Users\sadea\source\repos\yapici_yikici_metotlar\yapici_yikici_metotlar\bin\Debug\yapici_yikici_metotlar.pdb
+C:\Users\sadea\source\repos\yapici_yikici_metotlar\yapici_yikici_metotlar\obj\Debug\yapici_yikici_metotlar.csproj.AssemblyReference.cache
+C:\Users\sadea\source\repos\yapici_yikici_metotlar\yapici_yikici_metotlar\obj\Debug\yapici_yikici_metotlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadea\source\repos\yapici_yikici_metotlar\yapici_yikici_metotlar\obj\Debug\yapici_yikici_metotlar.csproj.CoreCompileInputs.cache
+C:\Users\sadea\source\repos\yapici_yikici_metotlar\yapici_yikici_metotlar\obj\Debug\yapici_yikici_metotlar.exe
+C:\Users\sadea\source\repos\yapici_yikici_metotlar\yapici_yikici_metotlar\obj\Debug\yapici_yikici_metotlar.pdb

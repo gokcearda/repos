@@ -1,0 +1,8 @@
+C:\Users\sadea\source\repos\hayvanlar\hayvanlar\bin\Debug\hayvanlar.exe.config
+C:\Users\sadea\source\repos\hayvanlar\hayvanlar\bin\Debug\hayvanlar.exe
+C:\Users\sadea\source\repos\hayvanlar\hayvanlar\bin\Debug\hayvanlar.pdb
+C:\Users\sadea\source\repos\hayvanlar\hayvanlar\obj\Debug\hayvanlar.csproj.AssemblyReference.cache
+C:\Users\sadea\source\repos\hayvanlar\hayvanlar\obj\Debug\hayvanlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadea\source\repos\hayvanlar\hayvanlar\obj\Debug\hayvanlar.csproj.CoreCompileInputs.cache
+C:\Users\sadea\source\repos\hayvanlar\hayvanlar\obj\Debug\hayvanlar.exe
+C:\Users\sadea\source\repos\hayvanlar\hayvanlar\obj\Debug\hayvanlar.pdb

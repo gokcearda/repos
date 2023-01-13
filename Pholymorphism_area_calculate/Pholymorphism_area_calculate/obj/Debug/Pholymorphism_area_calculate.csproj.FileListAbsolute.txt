@@ -1,0 +1,8 @@
+C:\Users\sadea\source\repos\Pholymorphism_area_calculate\Pholymorphism_area_calculate\bin\Debug\Pholymorphism_area_calculate.exe.config
+C:\Users\sadea\source\repos\Pholymorphism_area_calculate\Pholymorphism_area_calculate\bin\Debug\Pholymorphism_area_calculate.exe
+C:\Users\sadea\source\repos\Pholymorphism_area_calculate\Pholymorphism_area_calculate\bin\Debug\Pholymorphism_area_calculate.pdb
+C:\Users\sadea\source\repos\Pholymorphism_area_calculate\Pholymorphism_area_calculate\obj\Debug\Pholymorphism_area_calculate.csproj.AssemblyReference.cache
+C:\Users\sadea\source\repos\Pholymorphism_area_calculate\Pholymorphism_area_calculate\obj\Debug\Pholymorphism_area_calculate.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadea\source\repos\Pholymorphism_area_calculate\Pholymorphism_area_calculate\obj\Debug\Pholymorphism_area_calculate.csproj.CoreCompileInputs.cache
+C:\Users\sadea\source\repos\Pholymorphism_area_calculate\Pholymorphism_area_calculate\obj\Debug\Pholymorphism_area_calculate.exe
+C:\Users\sadea\source\repos\Pholymorphism_area_calculate\Pholymorphism_area_calculate\obj\Debug\Pholymorphism_area_calculate.pdb

@@ -1,0 +1,8 @@
+C:\Users\sadea\source\repos\enum_ornek\enum_ornek\bin\Debug\enum_ornek.exe.config
+C:\Users\sadea\source\repos\enum_ornek\enum_ornek\bin\Debug\enum_ornek.exe
+C:\Users\sadea\source\repos\enum_ornek\enum_ornek\bin\Debug\enum_ornek.pdb
+C:\Users\sadea\source\repos\enum_ornek\enum_ornek\obj\Debug\enum_ornek.csproj.AssemblyReference.cache
+C:\Users\sadea\source\repos\enum_ornek\enum_ornek\obj\Debug\enum_ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadea\source\repos\enum_ornek\enum_ornek\obj\Debug\enum_ornek.csproj.CoreCompileInputs.cache
+C:\Users\sadea\source\repos\enum_ornek\enum_ornek\obj\Debug\enum_ornek.exe
+C:\Users\sadea\source\repos\enum_ornek\enum_ornek\obj\Debug\enum_ornek.pdb

@@ -1,0 +1,13 @@
+C:\Users\sadea\source\repos\ardaAirlines\ardaAirlines\bin\Debug\ardaAirlines.exe.config
+C:\Users\sadea\source\repos\ardaAirlines\ardaAirlines\bin\Debug\ardaAirlines.exe
+C:\Users\sadea\source\repos\ardaAirlines\ardaAirlines\bin\Debug\ardaAirlines.pdb
+C:\Users\sadea\source\repos\ardaAirlines\ardaAirlines\obj\Debug\ardaAirlines.csproj.AssemblyReference.cache
+C:\Users\sadea\source\repos\ardaAirlines\ardaAirlines\obj\Debug\ardaAirlines.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadea\source\repos\ardaAirlines\ardaAirlines\obj\Debug\ardaAirlines.Form1.resources
+C:\Users\sadea\source\repos\ardaAirlines\ardaAirlines\obj\Debug\ardaAirlines.Form2.resources
+C:\Users\sadea\source\repos\ardaAirlines\ardaAirlines\obj\Debug\ardaAirlines.Properties.Resources.resources
+C:\Users\sadea\source\repos\ardaAirlines\ardaAirlines\obj\Debug\ardaAirlines.csproj.GenerateResource.cache
+C:\Users\sadea\source\repos\ardaAirlines\ardaAirlines\obj\Debug\ardaAirlines.csproj.CoreCompileInputs.cache
+C:\Users\sadea\source\repos\ardaAirlines\ardaAirlines\obj\Debug\ardaAirlines.exe
+C:\Users\sadea\source\repos\ardaAirlines\ardaAirlines\obj\Debug\ardaAirlines.pdb
+C:\Users\sadea\source\repos\ardaAirlines\ardaAirlines\obj\Debug\ardaAirlines.Form3.resources

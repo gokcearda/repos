@@ -1,0 +1,8 @@
+C:\Users\sadea\source\repos\oop_studies\oop_studies\bin\Debug\oop_studies.exe.config
+C:\Users\sadea\source\repos\oop_studies\oop_studies\bin\Debug\oop_studies.exe
+C:\Users\sadea\source\repos\oop_studies\oop_studies\bin\Debug\oop_studies.pdb
+C:\Users\sadea\source\repos\oop_studies\oop_studies\obj\Debug\oop_studies.csproj.AssemblyReference.cache
+C:\Users\sadea\source\repos\oop_studies\oop_studies\obj\Debug\oop_studies.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadea\source\repos\oop_studies\oop_studies\obj\Debug\oop_studies.csproj.CoreCompileInputs.cache
+C:\Users\sadea\source\repos\oop_studies\oop_studies\obj\Debug\oop_studies.exe
+C:\Users\sadea\source\repos\oop_studies\oop_studies\obj\Debug\oop_studies.pdb
